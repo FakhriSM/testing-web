@@ -1,0 +1,25 @@
+# node modules
+node_modules/
+
+# vendor laravel
+/vendor
+
+# file environment
+.env
+
+# cache
+.cache/
+
+# log
+*.log
+
+# system files
+.DS_Store
+Thumbs.db
+
+# vscode
+.vscode/
+
+# build files
+dist/
+build/
